@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "starlit-hulling-379123",
+  "private_key_id": "9550b1ad7078f4d1c42d5bf61feca95dde6c699c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCyf03Omdc8i4or\nXkPohKDKpReLA6iLegLkE3GrJLBD0vG4MjmMMdEdim0/LaazcfwQy6A1uZrF7crN\nwMJBCUyGw6TvLVybaEjW8i0Sw6X33N4ajfs9r9mPducdzoQP8ppmE5whp/40OPk5\neoeN6XsT/V6ZD5mn+phlBjTW9qweao+zW6ittCL2gBF/Rh7+upCQklPe5QIdOZc2\nmmTHGwBORffvpZIVwnQEw0VkMVLEGGWeiqwzwuMdBfiZzxM7OMhaXxyWjGJsaaQE\nhhQyclKdVwbwsRvxfgGySnhdMJ3Ol/VkHUOdMKCtWvtWgKyL8WpDUhZjM9ToBvQ8\nWQ7tb8vjAgMBAAECggEAEYd2+KcbABMkCoZDXP5JXB1CZqCBWNEun39ZVllQBhkd\nK92i0SXDR4dkmyO8jzrOakfU//GuRWnI1NPtP73OCh4EgIiP46MmJBW8X29fSSwj\nk7AF0FUIpJIkuESjq31DtGqQlq2MxUwjDYX+8ezP7XKga5+gk2KEvMcTQVkQJhxe\n08cNPImbIRQqCYCwfQM840OHrTuzdwcxAtkMWRo8utzGpfLgsIhN3TPnHV7HnrVQ\nPW9Oc4O5BdettlvIIRmRAswCJW1cKt3AlSdN+n2OHH2RnsekhhGyJ3jLMnSAW5cC\nOCeTfYJ/4Yg++b2L/w4wE4n9OZk6MI10rox/7eh2AQKBgQDkmy3iLACGcL+LS9X0\nkv4Urp8o0iYpxWzKiRZxBTKBiNiOjGH9Uzre8sL+vch2vFkEyAbMQiN/7dMnVCTZ\nd+l6SgG9pK+IU7YCKNJyCtJkouPXqzcljI8lMeHa3qg9mQlLeulgXQ6ircyVJkjj\nAGpZa8OGDR5tBSateX5yO+rcwQKBgQDH4vaGkBEtrbcsFMgSVApeqrlLy4mEYtTp\njcWJEk//67Y4wJkTHNybsVqij+aDWX2M9be/X8vBoWh0HVoYywnZ5x2w/GIeV/L6\nXTe5oYSKI1pHwnuUy3euysCnOsQWYX7XIUubxOgFywvpsG+QZwFzvJYC6IWVUclQ\n8ZV2QNt9owKBgQDOd3CrUr5uranxbt6f85pSp5vLzHD3TP2CtulzzhPddfDQXe2q\nU99ZuLtwQ4un4Vgsv1OUay+QvQT2AkL9vhU6g1irJO/8Gk7KCIB4y1lV1uAcyuAV\no6stFq47dNlSOMNyTmI0zBcJyhp5oog1rQxgEroWega+w+Y4yv/uwDrQgQKBgHRu\n2YlSnB8OhJdR16UNfSjdq6fh/M23wCv3oCwTFbSOegue7Mu8USkD6zasOesjEsYs\nT4dTZt34hl60xkmQ48EhJiN1MDZaprd92zrvQcQxiaIpQFFRH/saMZR338blrbvk\nsiUfUsQlHWBXnPTxe2AOZxd0mHN9O5ZB0v0aFICfAoGAL5fVq2gk32OdaWoYttCN\nBz1s7lqJiTuPzTkMXWXY5xClae3dIFExWbg4DBBBi9Y8PQN5S+ZAsouHQs5TVRN2\nNKNVCDN5mcPC8yBoh5SuWZMEx0Bs9FvVPTnffX8PgiPOl5a/jsCDSOBz4Yh986Jg\nzfSBGOGzocmeVxrMYfqZS4M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "python-sheets-tesel@starlit-hulling-379123.iam.gserviceaccount.com",
+  "client_id": "114378335076639629947",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/python-sheets-tesel%40starlit-hulling-379123.iam.gserviceaccount.com"
+}
